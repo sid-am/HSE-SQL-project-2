@@ -17,7 +17,7 @@ Entity relationship diagram
 <img width="1151" alt="ERD bike sharing" src="https://github.com/sid-am/HSE-SQL-project-2/assets/141071714/bbcee3c3-33f2-4d23-95cc-3242dc7dd53a">
 
 Relational schema
-![relational schema](https://github.com/sid-am/HSE-SQL-project-2/assets/141071714/1c27116b-4eec-4f8f-88f1-5f5a6aae2843)
+<img width="1035" alt="relational schema" src="https://github.com/sid-am/HSE-SQL-project-2/assets/141071714/914c62e8-6dd1-4c9d-ab9e-95b4236b6627">
 
 Database diagram
-![DB diagram](https://github.com/sid-am/HSE-SQL-project-2/assets/141071714/4d2890fc-2632-4980-ab5a-3ae311641fbe)
+![DB diagram](https://github.com/sid-am/HSE-SQL-project-2/assets/141071714/f44af1d0-35c8-4273-9932-f44a67d1d8cc)
